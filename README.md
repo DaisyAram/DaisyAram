@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaisyArama
+- 👋 Hi, I’m @Daisy Arama
 - 👀 I’m interested in  Tech world
 - 🌱 I’m currently learning software engineering in ALX
 - 📫 How to reach me @daisyarama03@gmail.com
