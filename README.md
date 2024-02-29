@@ -1,7 +1,7 @@
 [!MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 <h1 align="center">Hi 👋, I'm Daisy Arama</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack software engineer and web developer</h3>
 <img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JmF865Wq7QcQXXT6QHan_orWFPMydnz8mC-hy12KPA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisyaram&label=Profile%20views&color=0e75b6&style=flat" alt="daisyaram" /> </p>
