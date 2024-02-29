@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/daisy_mumbo" target="blank"><img src="https://img.shields.io/twitter/follow/daisy_mumbo?logo=twitter&style=for-the-badge" alt="daisy_mumbo" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, Python**
+- 🌱 I’m currently learning **HTML, Python, C**
 
-- 💬 Ask me about **python scripting and Automation, CSS, HTML5, Responsive Web Design, Web APIs**
+- 💬 Ask me about **python scripting and Automation, Networking, Databases, system programming,CSS, HTML5, Responsive Web Design, Web APIs**
 
 - 📫 How to reach me **daisyarama03@gmail.com**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daisyaram&show_icons=true&locale=en" alt="daisyaram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daisyaram&" alt="daisyaram" /></p>
+
