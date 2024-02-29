@@ -1,15 +1,16 @@
 [!MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+
 <h1 align="center">Hi 👋, I'm Daisy Arama</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNyyzi7V1n8kgzYKmPJnbwLOvseGOHg2iGRy4FmIHyDQ&s">
+<h3 align="center">A passionate frontend developer</h3>
+<img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JmF865Wq7QcQXXT6QHan_orWFPMydnz8mC-hy12KPA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisyaram&label=Profile%20views&color=0e75b6&style=flat" alt="daisyaram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/daisy_mumbo" target="blank"><img src="https://img.shields.io/twitter/follow/daisy_mumbo?logo=twitter&style=for-the-badge" alt="daisy_mumbo" /></a> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **HTML, Python**
 
-- 💬 Ask me about **CSS, HTML5, Responsive Web Design, Web APIs**
+- 💬 Ask me about **python scripting and Automation, CSS, HTML5, Responsive Web Design, Web APIs**
 
 - 📫 How to reach me **daisyarama03@gmail.com**
 
